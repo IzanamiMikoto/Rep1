@@ -1,2 +1,3 @@
 # Rep1
-Personal Repository 1
+This is a repository for my personal working #1.
+
